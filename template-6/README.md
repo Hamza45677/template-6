@@ -1,10 +1,5 @@
 # 🛋️ Funiro - Modern Furniture E-commerce
 
-<div align="center">
-  <img src="/public/Logo.png" alt="Funiro Logo" width="200"/>
-  <p>A modern, responsive e-commerce platform for luxury furniture.</p>
-</div>
----
 
 ## ✨ Features
 
@@ -38,7 +33,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/usama7871/hackathon-2.git
+   git clone https://github.com/Hamza45677/hmza-furniture.git
    cd hackathon-2
    ```
 
@@ -139,21 +134,3 @@ Tailwind CSS configuration includes:
 - Optimized for fast loading times
 - Uses Next.js for server-side rendering (SSR) and static site generation (SSG)
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a pull request.
-
----
-
-## 📧 Contact
-
-For any inquiries, please contact us at **kusamakhan1234@gmail.com**.
-```
